@@ -4,8 +4,6 @@
 4
 5
 6
-7
+number = 1
 8
 9
-Test1
-Test2
